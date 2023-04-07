@@ -1,0 +1,24 @@
+body {
+  background-color: #EAF6F6;
+}
+hr{
+
+  border-style: dotted none none none;
+  width: 10%;
+  height: 0;
+  border-color: grey;
+  border-width: 12px;
+
+}
+img{
+  height: 50px;
+  width: 50px;
+}
+h1{
+  color: #66BFBF;
+ font-family: "Lucida Console", "Courier New", monospace;
+}
+h3{
+    color: #66BFBF;
+    font-family: "Times New Roman", Times, serif;
+}
